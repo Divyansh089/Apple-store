@@ -1,18 +1,15 @@
-import { Box, Heading, Text , Image, Flex, Button ,Modal,
+import { Box, Text , Image, Flex, Button ,Modal,
   ModalOverlay,
   ModalContent,
   ModalHeader,
   ModalFooter,FormControl ,
   ModalBody,useDisclosure ,
   ModalCloseButton,
-  Center,Accordion,Input,
-  AccordionItem,
-  AccordionButton,
-  AccordionPanel,
-  AccordionIcon,} from "@chakra-ui/react";
+  Center,Input,
+} from "@chakra-ui/react";
   import axios from "axios";
-import { useEffect , useState,useContext } from 'react';
-import {Link} from 'react-router-dom'
+import { useState,useContext } from 'react';
+
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from "./ContextApi/Context";
 

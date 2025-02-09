@@ -1,4 +1,4 @@
-import {Grid, Heading, Text, Image, Box, Center, Flex, UnorderedList, ListItem , Button , Accordion,
+import { Text, Image, Box, Center , Button , Accordion,
     AccordionItem,
     AccordionButton,
     AccordionPanel,
