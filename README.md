@@ -40,8 +40,8 @@ Welcome to the **Apple Store E-Commerce Website!** 🎉 This is a fully function
 
 ### **1️⃣ Clone the Repository**
 ```bash
- git clone https://github.com/your-username/apple-store.git
- cd apple-store
+ git clone https://github.com/Divyansh089/Apple-store.git
+ cd Apple-store
 ```
 
 ### **2️⃣ Install Dependencies**
