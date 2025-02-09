@@ -49,7 +49,7 @@ Welcome to the **Apple Store E-Commerce Website!** 🎉 This is a fully function
 ```bash
  npm install
 ```
-### **3 Start the Development Server**
+### **3️⃣ Start the Development Server**
 ```bash
  npm start
 ```
@@ -59,16 +59,13 @@ Your app will now be running on **http://localhost:3000** 🚀
 
 ## 📂 Folder Structure
 ```
-apple-store/
+Apple-store/
 │
-├── client/               # Frontend React code
+├── client/               
 │   ├── src/
 │   └── public/
 │
-└── server/               # Backend Node.js API
-    ├── models/
-    ├── routes/
-    └── controllers/
+
 ```
 
 ---
