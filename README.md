@@ -59,12 +59,24 @@ Your app will now be running on **http://localhost:3000** 🚀
 
 ## 📂 Folder Structure
 ```
-Apple-store/
+Apple-store
+├── public/               # Public assets
+│   ├── assets/
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   ├── robots.txt
 │
-├── client/               
-│   ├── src/
-│   └── public/
+├── src/                  # React source code
 │
+├── .eslintrc.json
+├── .gitignore
+├── LICENSE
+├── README.md
+├── package-lock.json
+├── package.json
 
 ```
 
